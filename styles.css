@@ -1,0 +1,37 @@
+.white {
+    color: white;
+}
+
+h1 {
+    color: black;
+}
+
+#task1 {
+    color: black;
+}
+
+.circle {
+    display: flex;
+    justify-content: center;
+    background-color: lightblue;
+
+    width: 100px;
+    height: 100px;
+
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.circle a {
+    line-height: 100px;
+}
+
+#movable {
+    background-color: black;
+    position: relative;
+    top: -102px;
+}
+
+article {
+    border-bottom: 1px solid black;
+}
